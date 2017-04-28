@@ -55,3 +55,30 @@ background-color: #cccccc;
               border: 1px solid #000000
               color #000000
               }
+              .blood8{
+                background-image: url("images/blood8.jpg");
+                text-align:center;
+                font-size: 15px
+                border: 1px solid #000000
+                color #000000
+                }
+                .blood9{
+                  background-image: url("images/blood9.jpg");
+                  text-align:center;
+                  font-size: 15px
+                  border: 1px solid #000000
+                  color #000000
+                  }
+                  .blood10{
+                    background-image: url("images/blood10.jpg");
+                    text-align:center;
+                    font-size: 15px
+                    border: 1px solid #000000
+                    color #000000
+                    }
+h4{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
